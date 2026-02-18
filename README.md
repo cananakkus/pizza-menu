@@ -10,7 +10,7 @@ This project demonstrates reusable components, props usage, state management, an
 
 ## 🚀 Live Demo
 
-(Add your deployed link here after Netlify/Vercel deployment)
+https://pizza-menu-canan.vercel.app/
 
 ---
 
